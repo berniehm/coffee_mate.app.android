@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879905671780",
+    "project_id": "coffee-mate-a6195"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879905671780:android:d15577af3f2220ae",
+        "android_client_info": {
+          "package_name": "ie.cm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879905671780-mfkendadeuvnatf2jac6m92ibhea1c31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.cm",
+            "certificate_hash": "6d3540b8065df432e6f9e1b6b6670c3f34837b0c"
+          }
+        },
+        {
+          "client_id": "879905671780-62pn080e6k5f3lrh5bh5qprag4cjj48s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCX-y_9DAtXJl_L10smEjNDJSl9r5wJaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
